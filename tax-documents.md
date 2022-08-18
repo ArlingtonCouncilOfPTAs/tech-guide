@@ -23,7 +23,7 @@ This form requires:
 - The reason why the purchase is tax exempt
 - The name, title, and signature of the organization's agent who is making the purchase
 
-While your PTA's EIN does not have to appear on this document, it is a common misunderstanding that you must provide this number at the time of purchase.  Simply including it in the reason for tax exemption streamlines the and avoids unnecesesary delay.  For example:
+While your PTA's EIN does not have to appear on this document, it is a common misunderstanding that you must provide this number at the time of purchase.  Simply including it in the reason for tax exemption streamlines this process and avoids unnecesesary delay.  For example:
 
 > This purchase is exempt because NAME OF YOUR PTA is a 501(c)(3) tax-exempt organization with EIN 12-34566789.
 
