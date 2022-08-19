@@ -43,10 +43,15 @@ Enter your username and password into the login form.
 
 ![Enter Your Username and Password](./img/lastpass-phone-5.jpg)
 
+## Enable Conveniant Login
+If you phone supports secure and conveniant login using Face ID, Touch ID, or something similar, you may be given the option to enable it.  Otherwise, continue to the next step.
+
+![You are Logged In](./img/lastpass-phone-6.jpg)
+
 ## You are Logged In
 Congratulations!  You are now logged in to LastPass.
 
-![You are Logged In](./img/lastpass-phone-6.jpg)
+![You are Logged In](./img/lastpass-phone-7.png)
 
 ## View Your Passwords
 Go to the next guide to [view the passwords](./lastpass-view.md) that have been shared with you.
