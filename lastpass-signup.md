@@ -31,7 +31,7 @@ Read the text and swipe the app.
 ## Swipe
 Read the text and swipe the app again.
 
-![Swipe[(./img/lastpass-phone-3.jpg)
+![Swipe](./img/lastpass-phone-3.jpg)
 
 ## Open the Login Screen
 Click the Login button and go to the login screen.
