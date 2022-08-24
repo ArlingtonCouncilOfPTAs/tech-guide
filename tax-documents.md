@@ -2,7 +2,7 @@
 You will need three kinds of tax documents to get setup in most systems.
 
 ## IRS Determination Letter
-Your PTA Treasurer and/or Secretary should have a copy of the IRS determination letter.  In Texas, this is a letter from the IRS containing the [PTA Texas Congress](https://www.charitynavigator.org/ein/741054403) group exemption #1189.  The packet should contain three pages in total, and is proof that your PTA is a non-profit organization.
+Your PTA Treasurer and/or Secretary should have a copy of the IRS determination letter.  In Texas, this is a letter from the IRS containing the PTA Texas Congress group exemption #1189.  The packet should contain three pages in total, and is proof that your PTA is a non-profit organization.
 
 1. A letter from the IRS which contains text substancially similar to: "Your organization is exempt under section 501 (c)(3) of the Code because it is included in a group ruling issued to PTA Texas Congress, located in Austin, TX."
 2. A Certificate of Charter issued by PTA Texas Congress
