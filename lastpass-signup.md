@@ -10,7 +10,7 @@ Go to [https://lastpass.com](https://lastpass.com) and click on the "Get LastPas
 Enter your username and password into the signup form.  Your password should be at least 12 characters long, with a number, lowercase letter, and uppercase number.  You should use a password that you can remember, or one that you have recorded in your own personal password manager (if you have one).  The ideal password is one that does not contain common information, such as your name, email, or phone number and is not easily guessed.
 
 ### IMPORTANT NOTE!
-If you forget this password, you can reset your LastPass account.  However, if you have to do this, it will wipe your account clean and all of your passwords will be lost.  (This does not affect passwords owned by someone else - such as those shared to you.)
+Make sure you record this password somewhere safe.  Your vault is secured with this password, and LastPass does not know what the password is.  If you have to reset it, it will erase the contents of your account.  Any passwords created by you will be deleted.  See [protecting your vault](./lastpass-protect.md) for more information.
 
 ![Enter Your Information](./img/lastpass-signup-2.png)
 
