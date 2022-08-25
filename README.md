@@ -8,7 +8,8 @@ The purpose of this guide is to distribute peer-reviewed best practices regardin
 4. [How to View a Password That Has Been Shared With You](./lastpass-view.md)
 5. [Protect Your Password Vault from Lost Passwords (or Worse)](./lastpass-protect.md)
 6. [Online Resources for Your PTA](./online-resources.md)
-7. [Online Bookkeeping Tools](./online-bookkeeping.md)
+7. [Tech Soup](./techsoup.md)
+8. [Online Bookkeeping Tools](./online-bookkeeping.md)
 
 ## Contact
 To report an error or request changes, please [open an issue](https://github.com/ArlingtonCouncilOfPTAs/tech-guide/issues/new) within GitHub.
