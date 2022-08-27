@@ -11,6 +11,7 @@ The purpose of this guide is to distribute peer-reviewed best practices regardin
 7. [Tech Soup](./techsoup.md)
 8. [Google Workspaces for Non-Profits](./google-workspaces.md)
 9. [Online Bookkeeping Tools](./online-bookkeeping.md)
+10. [Email Forwarding for Gmail Users](./google-forwarding.md)
 
 ## Contact
 To report an error or request changes, please [open an issue](https://github.com/ArlingtonCouncilOfPTAs/tech-guide/issues/new) within GitHub.
