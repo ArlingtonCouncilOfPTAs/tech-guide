@@ -6,7 +6,7 @@
 2. Go to the [My Account](https://www.techsoup.org/my-account) page.
 3. Click Add an Organization.
 4. Select Nonprofit with 501(c)(3) status and enter your [EIN](./tax-documents.md).
-5. Enter your organizations information (remember: the official name of your organization is "PTA Texas Congress", but the budget, address, and phone number information is unique to your PTA)
+5. Enter your organization's information (remember: the official name of your organization is "PTA Texas Congress", but the budget, address, and phone number information is unique to your PTA)
 
 Once your organization has been created, your status will be "Pending Qualification."  You can't request technology products until your verfication is complete.  Watch your email, in case further information (like the [IRS Determination Letter](./tax-documents.md)) is needed.
 
