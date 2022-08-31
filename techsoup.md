@@ -12,4 +12,4 @@ Once your organization has been created, your status will be "Pending Qualificat
 
 You will also be given an "Association Code."  You can give this code to other trusted members of the PTA so that they can join your organization as administrators, just like you.  The current PTA President and Treasurer should be invited at a minimum.  Depending on the structure of your PTA, it might be appropriate to invite other people as well (such as whoever is managing your technology).
 
-[<- back](./README.md)
+[<- Go Back](./README.md)
