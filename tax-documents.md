@@ -35,4 +35,4 @@ You may be asked to provide a [W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) esp
 
 To ensure that the form is filled out correctly, please ask your Treasurer to provide you with a filled-out copy of this form.
 
-[<- back](./README.md)
+[<- Go Back](./README.md)
