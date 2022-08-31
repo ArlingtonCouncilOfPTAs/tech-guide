@@ -6,7 +6,7 @@ However, some users may prefer not to have a separate PTA email address.  If thi
 Follow this guide to forward all PTA email to your personal address.
 
 ## Setup Email Forwarding
-1. Login to gmail.com using your PTA email address and password _in a web browser_.
+1. Login to [gmail.com](https://gmail.com) using your PTA email address and password _in a web browser_.
 2. Click on the gear icon in the top right corner of the screen.
 3. Click on the "See all settings" button.
 4. Click the "Forwarding and IMAP" tab.
