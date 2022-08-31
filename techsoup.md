@@ -1,5 +1,5 @@
 # TechSoup
-[TechSoup](https://www.techsoup.org) is a service which validates Non-Profit status and connects organizations with technology services at a reduced cost.  This is a pre-requisite to signing up for [Google Workspaces for Non-Profits](https://www.google.com/nonprofits/).
+[TechSoup](https://www.techsoup.org) is a service which validates Non-Profit status and connects organizations with technology services at a reduced cost.  This is a prerequisite to signing up for [Google Workspaces for Non-Profits](https://www.google.com/nonprofits/).
 
 # Sign Up
 1. Create a personal account at Tech Soup using your own name and email address.
